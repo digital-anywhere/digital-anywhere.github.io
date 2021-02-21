@@ -1,2 +1,2 @@
-# digital-anywhere.io
+# https://digital-anywhere.github.io/
 Company page
